@@ -18,7 +18,7 @@ waltercamino - Camino Walter Daniel - waltercamino@hotmail.com [Frontend]
 
 CeCogot - Cecilia Edith Cogot - ceciliacogot@gmail.com [Frontend]
 
-xNachooox2442 - Gabriel Ignacio Bonzon - nachobonzon1@gmail.com [Frontend]
+Nacho-Bonzon2442 - Gabriel Ignacio Bonzon - nachobonzon1@gmail.com [Frontend]
 
 AntonellaAc - Antonella Acosta Gómez - antonellacosta_93@hotmail.com [Frontend]
 
